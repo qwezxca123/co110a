@@ -1,4 +1,4 @@
-<block>
+```html
 CHIP Not {
     IN in;
     OUT out;
@@ -7,4 +7,4 @@ CHIP Not {
     // Put your code here:
     Nand(a=in, b=in, out=out);
 }
-<block>
+```
